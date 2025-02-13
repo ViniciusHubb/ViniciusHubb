@@ -25,5 +25,5 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar meus projetos, contr
 ## 📫 Como entrar em contato
 
 - 📧 **E-mail**: [viniciuscontato2024@gmail.com](mailto:viniciuscontato2024@gmail.com)
-- 💼 **LinkedIn**: [Vinícius Oliveira](https://www.linkedin.com/in/viniciushubbs/)
+- 💼 **LinkedIn**: [Vinícius Oliveira](www.linkedin.com/in/vinícius-oliveira-ads)
 
