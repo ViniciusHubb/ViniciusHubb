@@ -1,14 +1,19 @@
 # Olá, eu sou o Vinícius 👋
 
-Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar meus projetos, contribuições e informações sobre minha carreira e habilidades.
+## 📫 Contato
+
+- 📧 **E-mail**: [viniciuscontato2024@gmail.com](mailto:viniciuscontato2024@gmail.com)
+- 💼 **LinkedIn**: [Vinícius Oliveira](https://www.linkedin.com/in/vinícius-oliveira-ads)
+
+Aqui você vai encontrar meus projetos, contribuições e informações sobre minha carreira e habilidades.
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 **Desenvolvedor Full Stack** em tecnologias como Java, Spring, Angular, React e SQL.
-- 🌱 **Sempre em busca de aprender mais** sobre desenvolvimento web e novas ferramentas.
+- 👨‍💻 **Desenvolvedor Full Stack** em tecnologias Java, Spring, Angular, React e SQL.
+- 🌱 **Aprimorando no momento** meus conhecimentos em Java com Spring Boot.
 - 💬 **Pergunte-me sobre** Java, Spring Boot, SQL, Angular e outras tecnologias.
 - 📚 **Apaixonado por arquitetura de software e boas práticas de codificação**.
-- 🌍 **Busco construir soluções inovadoras e de impacto usando tecnologia**.
+- 🌍 **Meu foco é construir soluções inovadoras que tornam a entrega de projetos mais eficiente e impactante.**.
 - 🎮 **Fã de games e cultura geek**.
 
 ## 💻 Tecnologias que utilizo
@@ -21,9 +26,3 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar meus projetos, contr
 ## 📈 GitHub Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHubb&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 📫 Como entrar em contato
-
-- 📧 **E-mail**: [viniciuscontato2024@gmail.com](mailto:viniciuscontato2024@gmail.com)
-- 💼 **LinkedIn**: [Vinícius Oliveira](https://www.linkedin.com/in/vinícius-oliveira-ads)
-
