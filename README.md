@@ -20,11 +20,16 @@ Aqui você vai encontrar meus projetos, contribuições e informações sobre mi
 
 ## 💻 Tecnologias que utilizo
 
-![Java](https://img.shields.io/badge/Technologies%20I%20use-Java-blue?logo=java)
-![Spring](https://img.shields.io/badge/Technologies%20I%20use-Spring-green?logo=spring)
-![SQL](https://img.shields.io/badge/Technologies%20I%20use-SQL-orange?logo=postgresql)
-![Angular](https://img.shields.io/badge/Technologies%20I%20use-Angular-red?logo=angular)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 📈 GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHubb&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<div align="left">
+  <a href="https://github.com/ViniciusHubb">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusHubb&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHubb&layout=compact&langs_count=16&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="Top Languages"/>
+  </a>
+</div>
