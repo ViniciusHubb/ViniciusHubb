@@ -27,9 +27,9 @@ Aqui você vai encontrar meus projetos, contribuições e informações sobre mi
 
 ## 📈 GitHub Status
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ViniciusHubb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusHubb&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHubb&layout=compact&langs_count=16&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusHubb&layout=compact&langs_count=16&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br" alt="Top Languages"/>
   </a>
 </div>
