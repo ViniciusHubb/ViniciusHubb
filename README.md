@@ -13,7 +13,6 @@ Aqui você vai encontrar meus projetos, contribuições e informações sobre mi
 
 - 👨‍💻 **Desenvolvedor Full Stack** em tecnologias Java, Spring, Angular, React e SQL.
 - 🌱 **Aprimorando no momento** meus conhecimentos em Java com Spring Boot.
-- 💬 **Pergunte-me sobre** Java, Spring Boot, SQL, Angular e outras tecnologias.
 - 📚 **Apaixonado por arquitetura de software e boas práticas de codificação**.
 - 🌍 **Meu foco é construir soluções inovadoras que tornam a entrega de projetos mais eficiente e impactante.**.
 - 🎮 **Fã de games e cultura geek**.
