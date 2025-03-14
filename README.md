@@ -1,4 +1,4 @@
-nter# <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=E94D5F&center=true&vCenter=true&width=435&lines=Olá,+sou+o+Vinícius+%F0%9F%91%8B" alt="Typing Effect">
 </div>
 
